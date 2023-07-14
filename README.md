@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center" style="display: flex; justify-content: space-between;"><span>Hi there! Bogdan here 👻</span> <a href="https://www.github.com/BogdanXoxl" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/BogdanXoxl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></h1>
+<h1 align="center">Hi there! Bogdan here 👻</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
 
 👋 I'm Bogdan, a passionate and detail-oriented FullStack Developer with a focus on crafting visually appealing and user-friendly web applications. With more then 2 years of experience, I'm proficient in a wide range of Frontend and Backend technologies, including React.js, TypeScript, Next.js, and many others.

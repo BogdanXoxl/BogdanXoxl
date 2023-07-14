@@ -7,4 +7,5 @@ I'm Bogdan, a passionate and detail-oriented Fullstack Developer with a focus on
 🚀 My goal is to create efficient and scalable code, delivering exceptional user experiences. I enjoy collaborating with designers and stakeholders to bring their visions to life and have a proven track record of delivering impactful projects.
 
 🌟 Let's connect and create innovative digital experiences together!
+
 [Portfolio Website](your-portfolio-website-link) | [LinkedIn](your-linkedin-profile-link)

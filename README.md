@@ -12,7 +12,7 @@
 [Portfolio Website](your-portfolio-website-link) | [LinkedIn](your-linkedin-profile-link)
 -->
 
-💰 [My CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+💰 [My CV](https://github.com/BogdanXoxl/BogdanXoxl/blob/main/CV%20Bogdan%20Khokhlov.pdf)
 
 ### My loved stack
 

@@ -10,3 +10,6 @@ I'm Bogdan, a passionate and detail-oriented FullStack Developer with a focus on
 🌟 Let's connect and create innovative digital experiences together!
 [Portfolio Website](your-portfolio-website-link) | [LinkedIn](your-linkedin-profile-link)
 -->
+
+# Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >

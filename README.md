@@ -1,4 +1,5 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<p align="right"><a href="https://www.github.com/BogdanXoxl" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/BogdanXoxl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 
 <h1 align="center">Hi there! Bogdan here 👻</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
@@ -40,6 +41,7 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
-<a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/BogdanXoxl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 

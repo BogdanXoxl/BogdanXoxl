@@ -27,7 +27,7 @@
       <br/>
    <a href="http://www.github.com/BogdanXoxl"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
     </td>
-    <td valign="top"><a href="https://github.com/BogdanXoxl" align="left"><img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=5&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=pie" alt="Top Languages" /></a></td>
+    <td valign="top"><a href="https://github.com/BogdanXoxl" align="left"><img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=pie" alt="Top Languages" /></a></td>
   </tr>
 </table>
 

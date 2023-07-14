@@ -12,7 +12,27 @@
 [Portfolio Website](your-portfolio-website-link) | [LinkedIn](your-linkedin-profile-link)
 -->
 
-# Examples of Work
+💰 [My CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+
+### My loved stack
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+
+## My GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top"><a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+      <br/>
+   <a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
+    </td>
+    <td><a href="https://github.com/BogdanXoxl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=10&title_color=22c55e&text_color=84cc16&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
+  </tr>
+</table>
+
+
+## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="480" >
 
 ## Skills
@@ -37,11 +57,6 @@
 ### 🔨 Other tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a></p>
 
-### Badges
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
-<a href="https://github.com/BogdanXoxl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/BogdanXoxl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 

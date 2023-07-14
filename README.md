@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! Bogdan here 👻</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>
 
-👋 I'm Bogdan, a passionate and detail-oriented FullStack Developer with a focus on crafting visually appealing and user-friendly web applications. With more then 2 years of experience, I'm proficient in a wide range of Frontend and Backend technologies, including React.js, TypeScript, Next.js, and many others.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bogdan, a passionate and detail-oriented FullStack Developer with a focus on crafting visually appealing and user-friendly web applications. With more then 2 years of experience, I'm proficient in a wide range of Frontend and Backend technologies, including React.js, TypeScript, Next.js, and many others.
 
 🚀 My goal is to create efficient and scalable code, delivering exceptional user experiences. I enjoy collaborating with designers and stakeholders to bring their visions to life and have a proven track record of delivering impactful projects.
 <!--

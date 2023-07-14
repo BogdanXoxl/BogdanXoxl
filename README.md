@@ -1,5 +1,8 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<p align="right"><a href="https://www.github.com/BogdanXoxl" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/BogdanXoxl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/BogdanXoxl/count.svg" />
+</p>
+
 
 <h1 align="center">Hi there! Bogdan here 👻</h1>
 <h3 align="center">A passionate FullStack Developer from Russia</h3>

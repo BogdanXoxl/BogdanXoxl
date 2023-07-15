@@ -14,9 +14,9 @@
 🌟 Let's connect and create innovative digital experiences together!
 
 [![My CV](https://img.shields.io/badge/My_CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/BogdanXoxl/BogdanXoxl/blob/main/CV%20Bogdan%20Khokhlov.pdf) | 
-[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Safari&logoColor=white)](your-portfolio-website-link) | 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile-link) |
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#) |
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://github.com/BogdanXoxl) | 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogxoxl/) |
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogxoxl39@gmail.com) |
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 
@@ -85,13 +85,22 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/>
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="jest" width="36" height="36"/>
+  <a href="https://testing-library.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="react-testing-library" width="36" height="36"/>
   </a>
 </p>
 
 ### 🔨 Other tools
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a></p>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  </a>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  </a>
+</p>
 
 
 

@@ -32,6 +32,7 @@
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![Apollo-GraphQL Badge](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&labelColor=black&logo=apollo-graphql&logoColor=311C87)](#) 
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-1A202C?style=for-the-badge&labelColor=black&logo=Prisma&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-00684A?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=00ED64)](#)
 [![Postgres Badge](https://img.shields.io/badge/-Postgres-0064a5?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=0064a5)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0162cc?style=for-the-badge&labelColor=black&logo=docker&logoColor=0162cc)](#) 
 

@@ -20,6 +20,17 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 
+## My GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top"><a href="http://www.github.com/BogdanXoxl"><img height="200px width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+      <br/>
+   <a href="http://www.github.com/BogdanXoxl"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
+    </td>
+    <td valign="top"><a href="https://github.com/BogdanXoxl" align="left"><img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=pie" alt="Top Languages" /></a></td>
+  </tr>
+</table>
 
 ### My Favorite Technologies
 
@@ -36,17 +47,6 @@
 [![Postgres Badge](https://img.shields.io/badge/-Postgres-0064a5?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=0064a5)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0162cc?style=for-the-badge&labelColor=black&logo=docker&logoColor=0162cc)](#) 
 
-## My GitHub Stats
-
-<table>
-  <tr>
-    <td valign="top"><a href="http://www.github.com/BogdanXoxl"><img height="200px width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-      <br/>
-   <a href="http://www.github.com/BogdanXoxl"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" /></a>
-    </td>
-    <td valign="top"><a href="https://github.com/BogdanXoxl" align="left"><img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=pie" alt="Top Languages" /></a></td>
-  </tr>
-</table>
 
 
 ## Examples of Work
@@ -78,7 +78,17 @@
 
 ### 🤖 Testing
 
-<p align="left"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/></a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"></p>
+<p align="left">
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="jest" width="36" height="36"/>
+  </a>
+</p>
 
 ### 🔨 Other tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a></p>

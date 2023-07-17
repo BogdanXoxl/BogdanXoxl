@@ -34,7 +34,7 @@
     </td>
     <td valign="top">
       <a href="https://github.com/BogdanXoxl" align="left">
-        <img height="430px" src="https://git-profile-stats.vercel.app/api/top-langs/?username=kikemaru&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical&hide=lua" alt="Top Languages" />
+        <img height="430px" src="https://git-profile-stats.vercel.app/api/top-langs/?langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical&hide=lua" alt="Top Languages" />
       </a>
     </td>
   </tr>

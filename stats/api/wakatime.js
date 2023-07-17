@@ -11,7 +11,6 @@ import { isLocaleAvailable } from "../src/translations.js";
 
 export default async (req, res) => {
   const {
-    username,
     title_color,
     icon_color,
     hide_border,
@@ -33,6 +32,8 @@ export default async (req, res) => {
   } = req.query;
 
   res.setHeader("Content-Type", "image/svg+xml");
+
+  const username = process.env.USERNAME;
 
   if (locale && !isLocaleAvailable(locale)) {
     return res.send(renderError("Something went wrong", "Language not found"));

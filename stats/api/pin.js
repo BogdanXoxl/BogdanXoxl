@@ -11,7 +11,6 @@ import { isLocaleAvailable } from "../src/translations.js";
 
 export default async (req, res) => {
   const {
-    username,
     repo,
     hide_border,
     title_color,
@@ -27,6 +26,8 @@ export default async (req, res) => {
   } = req.query;
 
   res.setHeader("Content-Type", "image/svg+xml");
+
+  const username = process.env.USERNAME;
 
   if (blacklist.includes(username)) {
     return res.send(renderError("Something went wrong"));

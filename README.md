@@ -62,6 +62,10 @@
   <a href="https://github.com/BogdanXoxl/todo-vue" target="_blank" rel="noreferrer">
     <img src="https://github.com/BogdanXoxl/todo-vue/blob/main/public/vue-todo-600.gif" width="300" >
   </a>
+  <a href="https://github.com/BogdanXoxl/painting_works" target="_blank" rel="noreferrer">
+    <img src="https://github.com/BogdanXoxl/painting_works/blob/main/public/painting-works-600.gif" width="300"/>
+  </a>
+
   <!--<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="250" >
   <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="250" >
   <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="250" >
